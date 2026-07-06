@@ -1,4 +1,4 @@
-package Day7;
+package Day7.HomeTask;
 
 public class Arraysum {
 
