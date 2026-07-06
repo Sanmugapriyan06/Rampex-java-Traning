@@ -1,4 +1,4 @@
-package Day9;
+package Day9.CLASSTASK;
 import java.util.Arrays;
 public class Stringpallindrome {
     public static void main(String[]args){
