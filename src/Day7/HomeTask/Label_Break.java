@@ -1,4 +1,4 @@
-package Day7;
+package Day7.HomeTask;
 
 public class Label_Break {
     public static void main(String[]args){
