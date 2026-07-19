@@ -1,4 +1,4 @@
-package Day11;
+package Day11.ClassTask;
 
 public class Amstrong {
     public static void main(String[] args){
